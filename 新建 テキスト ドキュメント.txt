@@ -1,0 +1,3 @@
+A diffusive memristor is a promising block designed for brain-inspired computation and creates a great potential for their application in neuromorphic systems. It consists of an exchange layer of two platinum (or gold) electrodes sandwiching a dielectric film, and embedded silver nanoparticle clusters (SiOxNy:Ag, HfOx:Ag or MgOx:Ag). Compared with the three-terminal CMOS synapse circuit, this two-terminal device can greatly reduce the footprint, complexity and power consumption, and also does not require complex circuits to simulate the behavior of the synapse.
+In this project, we will make use of Simulink to establish the model of diffusive memristor and emulate the behavior of the synapses through it.
+
